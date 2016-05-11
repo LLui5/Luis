@@ -1,0 +1,3 @@
+ipconfig
+java GameServer
+pause
